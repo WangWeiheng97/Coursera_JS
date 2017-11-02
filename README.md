@@ -1,13 +1,13 @@
 HTML, CSS, and Javascript for Web Developers-Coursera-Johns Hopkins University
 
 Assignment Instruction Links: 
-- [Module 2 Assignment](http://goo.gl/4Blt4G) 
-- [Module 3 Assignment](http://bit.ly/1mKZzJ5) 
-- [Module 4 Assignment](http://bit.ly/21StgWz) 
-- [Module 5 Assignment](http://bit.ly/1UWgPJ1) 
+- [Module 2 Assignment](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md) 
+- [Module 3 Assignment](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment3/Assignment-3.md) 
+- [Module 4 Assignment](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment4/Assignment-4.md) 
+- [Module 5 Assignment](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md) 
 
 Solution Links: 
-Module 2 Solution    
-Module 3 Solution 
-Module 4 Solution 
-Module 5 Solution 
+- [Module 2 Solution](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)   
+- [Module 3 Solution](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)   
+- [Module 4 Solution](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)   
+- [Module 5 Solution](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)   
