@@ -9,5 +9,5 @@ Assignment Instruction Links:
 Solution Links: 
 - [Module 2 Solution](https://wangweiheng97.github.io/Web_JavaScript/module2-solution/)   
 - [Module 3 Solution](https://wangweiheng97.github.io/Web_JavaScript/module3-solution/)   
-- [Module 4 Solution](https://wangweiheng97.github.io/Web_JavaScript/module-4-solution/)   
+- [Module 4 Solution](https://wangweiheng97.github.io/Web_JavaScript/module4-solution/)   
 - [Module 5 Solution](https://wangweiheng97.github.io/Web_JavaScript/module5-solution/)   
