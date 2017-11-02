@@ -7,7 +7,7 @@ Assignment Instruction Links:
 - [Module 5 Assignment](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment5/Assignment-5.md) 
 
 Solution Links: 
-- [Module 2 Solution](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)   
-- [Module 3 Solution](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)   
-- [Module 4 Solution](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)   
-- [Module 5 Solution](https://github.com/jhu-ep-coursera/fullstack-course4/blob/master/assignments/assignment2/Assignment-2.md)   
+- [Module 2 Solution](https://wangweiheng97.github.io/Web_JavaScript/module2-solution/)   
+- [Module 3 Solution](https://wangweiheng97.github.io/Web_JavaScript/module3-solution/)   
+- [Module 4 Solution](https://wangweiheng97.github.io/Web_JavaScript/module4-solution/)   
+- [Module 5 Solution](https://wangweiheng97.github.io/Web_JavaScript/module5-solution/)   
